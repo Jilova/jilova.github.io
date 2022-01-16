@@ -1,2 +1,2 @@
-# jilova.github.ioJolifas
-Mobile Applications
+# Jolifas Mobile Dev Group
+## Android Mobile Applications
